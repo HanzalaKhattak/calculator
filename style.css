@@ -14,6 +14,7 @@
     padding: 40px;
     border-radius: 15px;
     margin-top: 3%;
+    box-shadow: -4px -3px 5px rgb(37, 37, 37), 4px 3px 5px rgb(37, 37, 37);
 }
 
 #display{
